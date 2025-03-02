@@ -1,0 +1,1 @@
+# Scratch 5.0 Contributing Guide
