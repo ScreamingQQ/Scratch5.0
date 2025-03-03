@@ -1,0 +1,39 @@
+{
+    "name": "Scratch5.0 Extension",
+    "version": "1.0.0",
+    "description": "The Scratch5.0 Extension enhances your coding experience with powerful tools and functionalities, including an intuitive interface, customizable settings, an advanced code editor, an integrated terminal, and seamless version control.",
+    "author": "ScreamingQQ",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "permissions": [
+      "cookies",
+      "webRequest",
+      "webRequestBlocking",
+      "declarativeNetRequestWithHostAccess",
+      "storage",
+      "contextMenus",
+      "alarms",
+      "scripting"
+    ],
+    "icons": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    },
+    "content_scripts": [
+      {
+        "matches": [
+          "https://scratch.mit.edu/*",
+          "https://scratchfoundation.github.io/scratch-gui/*"
+        ],
+        "js": ["content.js"]
+      }
+    ],
+    "host_permissions": [
+      "https://scratch.mit.edu/*",
+      "https://scratchfoundation.github.io/scratch-gui/*"
+    ]
+  }
+  

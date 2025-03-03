@@ -7,7 +7,6 @@ The Scratch 5.0 extension is an extension to allow people to experience what Scr
 - New and improved user interface
 - Additional coding blocks
 - Enhanced performance and stability
-- New tutorials and guides
 
 ## Installation
 
@@ -45,8 +44,8 @@ To install the Scratch 5.0 extension, follow these steps:
 
 ## Contributing
 
-We welcome contributions! Please read our [CONTRIBUTING.md](/CONTRIBUTING.md) for guidelines on how to contribute to this project.
+We welcome contributions! Please read our [CONTRIBUTING SECTION](/CONTRIBUTING.md) for guidelines on how to contribute to this project.
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details. 
+This project is licensed under the MIT License. See the [LICENSE](/License.md) file for details. 
