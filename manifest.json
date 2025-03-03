@@ -1,12 +1,10 @@
 {
+    "manifest_version": 3,
     "name": "Scratch5.0 Extension",
     "version": "1.0.0",
     "description": "The Scratch5.0 Extension enhances your coding experience with powerful tools and functionalities, including an intuitive interface, customizable settings, an advanced code editor, an integrated terminal, and seamless version control.",
+    "default_locale": "en",
     "author": "ScreamingQQ",
-    "main": "index.js",
-    "scripts": {
-      "start": "node index.js"
-    },
     "permissions": [
       "cookies",
       "webRequest",
@@ -26,14 +24,24 @@
       {
         "matches": [
           "https://scratch.mit.edu/*",
-          "https://scratchfoundation.github.io/scratch-gui/*"
+          "https://scratchfoundation.github.io/scratch-gui/*",
+          "http://localhost:8333/*",
+          "http://localhost:8601/*",
+          "http://localhost:8602/*"
         ],
         "js": ["content.js"]
       }
     ],
     "host_permissions": [
       "https://scratch.mit.edu/*",
-      "https://scratchfoundation.github.io/scratch-gui/*"
-    ]
+      "https://api.scratch.mit.edu/*",
+      "https://clouddata.scratch.mit.edu/*",
+      "https://scratchfoundation.github.io/scratch-gui/*",
+      "http://localhost/*"
+    ],
+    "background": {
+      "service_worker": "scripts/service-worker.js",
+      "scripts": ["scripts/background.js"]
+    }
   }
   
