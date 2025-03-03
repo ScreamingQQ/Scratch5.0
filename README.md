@@ -49,4 +49,4 @@ We welcome contributions! Please read our [CONTRIBUTING.md](/CONTRIBUTING.md) fo
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the LICENSE file for details. 

@@ -33,7 +33,7 @@ Please note that this project adheres to a Contributor Code of Conduct. By parti
 
 #### Google Chrome
 
-1. Open Chrome and navigate to `chrome://extensions/`.
+1. Open Chrome and navigate to `chrome://extensions/`. 
 2. Enable "Developer mode" by toggling the switch in the top right corner.
 3. Click on "Load unpacked" and select the `Scratch5.0` directory.
 
