@@ -45,7 +45,7 @@ To install the Scratch 5.0 extension, follow these steps:
 
 ## Contributing
 
-We welcome contributions! Please read our CONTRIBUTING.md for guidelines on how to contribute to this project.
+We welcome contributions! Please read our [CONTRIBUTING.md](/CONTRIBUTING.md) for guidelines on how to contribute to this project.
 
 ## License
 
