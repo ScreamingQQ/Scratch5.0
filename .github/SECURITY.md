@@ -8,8 +8,8 @@ We provide security updates for the following versions:
 
 | Version | Supported          |
 |---------|--------------------|
-| 1.0     | ✅ Supported       |
-| < 1.0   | ❌ Not Supported   |
+| 1.0.0     | ✅ Supported     |
+| < 1.0.0   | ❌ Not Supported |
 
 Security updates are offered only to the latest version. Users are encouraged to upgrade to the latest supported version.
 
