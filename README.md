@@ -67,20 +67,6 @@ To install the Scratch 5.0 extension, follow these steps:
 2. Enable "Developer mode."
 3. Click "Load unpacked" and select the `Scratch5.0` directory.
 
-#### 8. **Tor Browser** *(Experimental)*
-1. Open Tor and navigate to `about:debugging#/runtime/this-firefox`.
-2. Click "Load Temporary Add-on" and select any file in the `Scratch5.0` directory.
-> [!NOTE]  
-> Tor Browser extensions loaded this way are removed when the browser is closed.
-
-#### 9. **Samsung Internet**
-*(Extension loading may not be supported; use Chrome/Edge on Android for compatibility.)*
-
-#### 10. **Yandex Browser**
-1. Open Yandex Browser and navigate to `browser://extensions`.
-2. Enable developer mode in the settings.
-3. Load the `Scratch5.0` directory manually.
-
 ## Contributing
 
 We welcome contributions! Please read our [CONTRIBUTING SECTION](/.github/CONTRIBUTING.md) for guidelines on how to contribute to this project.
