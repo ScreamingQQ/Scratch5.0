@@ -43,7 +43,7 @@ To install the Scratch 5.0 extension, follow these steps:
 
 1. Open Firefox and navigate to `about:debugging#/runtime/this-firefox`.
 2. Click on "Load Temporary Add-on" and select any file in the `Scratch5.0` directory.
-> [!NOTE]
+> [!WARNING]
 > Firefox extensions loaded this way are removed when the browser is closed.
 
 ## Contributing
