@@ -47,7 +47,7 @@ To install the Scratch 5.0 extension, follow these steps:
 1. Open Safari and go to the "Preferences" menu.
 2. Click the "Extensions" tab and enable developer mode in "Advanced Preferences."
 3. Manually load the `Scratch5.0` folder as an extension.
-> [!WARNING]  
+> [!CRITICAL WARNING]  
 > Safari extensions loaded this way are removed when the browser is closed.
 
 #### 5. **Opera**
