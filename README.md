@@ -25,26 +25,61 @@ To install the Scratch 5.0 extension, follow these steps:
     cd Scratch5.0
     ```
 
-### Install the Extension
+### Install the Extension on Browsers
 
-#### Google Chrome
-
+#### 1. **Google Chrome**
 1. Open Chrome and navigate to `chrome://extensions/`.
 2. Enable "Developer mode" by toggling the switch in the top right corner.
 3. Click on "Load unpacked" and select the `Scratch5.0` directory.
 
-#### Microsoft Edge
-
+#### 2. **Microsoft Edge**
 1. Open Edge and navigate to `edge://extensions/`.
 2. Enable "Developer mode" by toggling the switch in the bottom left corner.
 3. Click on "Load unpacked" and select the `Scratch5.0` directory.
 
-#### Mozilla Firefox
-
+#### 3. **Mozilla Firefox**
 1. Open Firefox and navigate to `about:debugging#/runtime/this-firefox`.
 2. Click on "Load Temporary Add-on" and select any file in the `Scratch5.0` directory.
-> [!WARNING]
+> [!WARNING]  
 > Firefox extensions loaded this way are removed when the browser is closed.
+
+#### 4. **Safari**
+1. Open Safari and go to the "Preferences" menu.
+2. Click the "Extensions" tab and enable developer mode in "Advanced Preferences."
+3. Manually load the `Scratch5.0` folder as an extension.
+> [!WARNING]  
+> Safari extensions loaded this way are removed when the browser is closed.
+
+#### 5. **Opera**
+1. Open Opera and navigate to `opera://extensions`.
+2. Enable "Developer mode."
+3. Click "Load unpacked" and select the `Scratch5.0` directory.
+> [!WARNING]  
+> Opera extensions loaded this way are removed when the browser is closed.
+
+#### 6. **Brave**
+1. Open Brave and navigate to `brave://extensions`.
+2. Enable "Developer mode."
+3. Click on "Load unpacked" and select the `Scratch5.0` directory.
+
+#### 7. **Vivaldi**
+1. Open Vivaldi and navigate to `vivaldi://extensions`.
+2. Enable "Developer mode."
+3. Click "Load unpacked" and select the `Scratch5.0` directory.
+
+#### 8. **Tor Browser** *(Experimental)*
+1. Open Tor and navigate to `about:debugging#/runtime/this-firefox`.
+2. Click "Load Temporary Add-on" and select any file in the `Scratch5.0` directory.
+> [!WARNING]  
+> Tor Browser extensions loaded this way are removed when the browser is closed.
+
+#### 9. **Samsung Internet**
+*(Extension loading may not be supported; use Chrome/Edge on Android for compatibility.)*
+
+#### 10. **Yandex Browser**
+1. Open Yandex Browser and navigate to `browser://extensions`.
+2. Enable developer mode in the settings.
+3. Load the `Scratch5.0` directory manually.
 
 ## Contributing
 
