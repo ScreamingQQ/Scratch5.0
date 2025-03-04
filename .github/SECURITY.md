@@ -19,12 +19,6 @@ We encourage responsible disclosure of vulnerabilities and are committed to reso
 ### GitHub Vulnerability Report Form
 To report a vulnerability, **please use the [GitHub vulnerability reporting form](https://github.com/ScreamingQQ/Scratch5.0/security/advisories/new)**. This ensures your report is securely transmitted and reaches us promptly.
 
-If for any reason you cannot use the vulnerability report form, you may alternatively contact us via email at [security@projectdomain.com] (replace this with your security contact email). Please include:
-- A detailed description of the vulnerability.
-- Steps to reproduce the issue.
-- Any known impacts or mitigations.
-- Relevant logs, files, or screenshots.
-
 ### Response Process
 - We will acknowledge your report within **24-48 hours**.
 - Reports will be triaged based on severity and impact, and we’ll collaborate with you to confirm the issue.
