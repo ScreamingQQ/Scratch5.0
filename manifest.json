@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "description": "The Scratch5.0 Extension enhances your coding experience with powerful tools and functionalities, including an intuitive interface, customizable settings, an advanced code editor, an integrated terminal, and seamless version control.",
     "default_locale": "en",
-    "author": "ScreamingQQ",
+    "author": "Scratch FanBase",
     "permissions": [
       "cookies",
       "webRequest",

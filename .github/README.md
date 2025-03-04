@@ -1,6 +1,8 @@
 # Scratch5.0
 
-The Scratch 5.0 extension is an extension to allow people to experience what Scratch version 5.0 would be like if it was released.
+## About
+
+Scratch 5.0 is a reimagined extension that invites users to explore the possibilities of what Scratch version 5.0 could be. By combining innovation with the essence of the beloved visual programming platform, this extension provides a fresh and exciting take on coding education. Whether you're an experienced coder or a curious beginner, Scratch 5.0 aims to inspire creativity, problem-solving, and fun through its upgraded features and user-centric design.
 
 ## Features
 
@@ -41,11 +43,21 @@ To install the Scratch 5.0 extension, follow these steps:
 
 1. Open Firefox and navigate to `about:debugging#/runtime/this-firefox`.
 2. Click on "Load Temporary Add-on" and select any file in the `Scratch5.0` directory.
+> [!NOTE]
+> Firefox extensions loaded this way are removed when the browser is closed.
 
 ## Contributing
 
-We welcome contributions! Please read our [CONTRIBUTING SECTION](/CONTRIBUTING.md) for guidelines on how to contribute to this project.
+We welcome contributions! Please read our [CONTRIBUTING SECTION](/.github/CONTRIBUTING.md) for guidelines on how to contribute to this project.
+
+## Security
+
+For information about reporting security vulnerabilities, see our [SECURITY POLICY](/.github/SECURITY.md).
+
+## Code of Conduct
+
+Please make sure to review our [CODE OF CONDUCT](/.github/CODE_OF_CONDUCT.md) to help maintain a welcoming and respectful community.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](/License.md) file for details.
+This project is licensed under the MIT License. See the [LICENSE](/.github/LICENSE.txt) file for details.
