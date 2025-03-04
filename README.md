@@ -9,6 +9,7 @@ Scratch 5.0 is a reimagined extension that invites users to explore the possibil
 - New and improved user interface
 - Additional coding blocks
 - Enhanced performance and stability
+- Ability to collaberate with other people on the same project
 
 ## Installation
 
