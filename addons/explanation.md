@@ -5,7 +5,7 @@ The `data.json` files are used to store the names of JavaScript files within spe
 ## Purpose
 
 The primary purpose of the `data.json` files is to:
-1. Store the names of JavaScript files within a directory.
+1. Store the names of addon directories within a directory.
 2. Facilitate the dynamic execution of these scripts by the extension.
 
 ## File Structure
@@ -13,9 +13,9 @@ The primary purpose of the `data.json` files is to:
 Each `data.json` file follows a simple structure:
 ```json
 {
-  "files": [
-    "exampleFile1.js",
-    "exampleFile2.js",
-    "exampleFile3.js"
+  "addons": [
+    "ExampleFolder1",
+    "ExampleFolder2",
+    "ExampleFolder3"
   ]
 }
