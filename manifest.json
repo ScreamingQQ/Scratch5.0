@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Scratch5.0 Extension",
+  "name": "Scratch5.0",
   "version": "1.0.0",
   "description": "The Scratch5.0 Extension enhances your coding experience with powerful tools and functionalities, including an intuitive interface, customizable settings, an advanced code editor, an integrated terminal, and seamless version control.",
   "author": "Scratch FanBase",
@@ -22,12 +22,24 @@
     "http://localhost/*"
   ],
   "background": {
-    "service_worker": "scripts/service-worker.js"
+    "service_worker": "background/service-worker.js"
   },
   "content_scripts": [
     {
       "matches": ["<all_urls>"],
-      "js": ["scripts/background.js"]
+      "js": ["content/content.js"]
     }
-  ]
+  ],
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "action": {
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  }
 }
