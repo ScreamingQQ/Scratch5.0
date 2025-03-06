@@ -1,7 +1,7 @@
 # <img src="images/icon.png" alt="Scratch 5.0 Logo" align="right" width="128px"></img>Scratch 5.0
 <br>
 
-## About
+## 🔎 About
 
 Scratch 5.0 is a reimagined extension that invites users to explore the possibilities of what Scratch version 5.0 could be. By combining innovation with the essence of the beloved visual programming platform, this extension provides a fresh and exciting take on coding education. Whether you're an experienced coder or a curious beginner, Scratch 5.0 aims to inspire creativity, problem-solving, and fun through its upgraded features and user-centric design.
 
