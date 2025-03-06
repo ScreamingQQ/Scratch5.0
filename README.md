@@ -26,7 +26,7 @@ To install the Scratch 5.0 extension, follow these steps:
     cd Scratch5.0
     ```
 
-### Install the Extension
+### Install the Extension 
 
 #### Google Chrome
 
