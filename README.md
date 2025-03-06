@@ -9,7 +9,10 @@ Scratch 5.0 is a reimagined extension that invites users to explore the possibil
 
 - New and improved user interface
 - Additional coding blocks
+- Additional coding blocks (coming soon)
 - Enhanced performance and stability
+- Ability to collaberate with other people on the same projects
+- Ability to collaberate with other people on the same projects (coming soon)
 
 ## Installation
 
@@ -26,26 +29,47 @@ To install the Scratch 5.0 extension, follow these steps:
     cd Scratch5.0
     ```
 
-### Install the Extension 
+### Install the Extension on Browsers
 
-#### Google Chrome
-
+#### 1. **Google Chrome**
 1. Open Chrome and navigate to `chrome://extensions/`.
 2. Enable "Developer mode" by toggling the switch in the top right corner.
 3. Click on "Load unpacked" and select the `Scratch5.0` directory.
 
-#### Microsoft Edge
-
+#### 2. **Microsoft Edge**
 1. Open Edge and navigate to `edge://extensions/`.
 2. Enable "Developer mode" by toggling the switch in the bottom left corner.
 3. Click on "Load unpacked" and select the `Scratch5.0` directory.
 
-#### Mozilla Firefox
-
+#### 3. **Mozilla Firefox**
 1. Open Firefox and navigate to `about:debugging#/runtime/this-firefox`.
 2. Click on "Load Temporary Add-on" and select any file in the `Scratch5.0` directory.
-> [!WARNING]
-> Firefox extensions loaded this way are removed when the browser is closed. 
+> [!NOTE]  
+> Firefox extensions loaded this way are removed when the browser is closed.
+
+#### 4. **Safari**
+1. Open Safari and go to the "Preferences" menu.
+2. Click the "Extensions" tab and enable developer mode in "Advanced Preferences."
+3. Manually load the `Scratch5.0` folder as an extension.
+> [!NOTE]  
+> Safari extensions loaded this way are removed when the browser is closed.
+
+#### 5. **Opera**
+1. Open Opera and navigate to `opera://extensions`.
+2. Enable "Developer mode."
+3. Click "Load unpacked" and select the `Scratch5.0` directory.
+> [!NOTE]  
+> Opera extensions loaded this way are removed when the browser is closed.
+
+#### 6. **Brave**
+1. Open Brave and navigate to `brave://extensions`.
+2. Enable "Developer mode."
+3. Click on "Load unpacked" and select the `Scratch5.0` directory.
+
+#### 7. **Vivaldi**
+1. Open Vivaldi and navigate to `vivaldi://extensions`.
+2. Enable "Developer mode."
+3. Click "Load unpacked" and select the `Scratch5.0` directory.
 
 ## Contributing
 
@@ -62,4 +86,3 @@ Please make sure to review our [CODE OF CONDUCT](/.github/CODE_OF_CONDUCT.md) to
 ## License
 
 This project is licensed under the GPL-3.0 License. See the [LICENSE](/LICENSE.md) file for details.
- 
