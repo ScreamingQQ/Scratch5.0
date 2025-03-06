@@ -1,4 +1,5 @@
-# Scratch5.0
+# <img src="images/icon.png" alt="Scratch 5.0 Logo" align="right" width="128px"></img>Scratch 5.0
+<br>
 
 ## About
 
