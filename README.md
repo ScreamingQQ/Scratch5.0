@@ -5,14 +5,14 @@
 
 Scratch 5.0 is a reimagined extension that invites users to explore the possibilities of what Scratch version 5.0 could be. By combining innovation with the essence of the beloved visual programming platform, this extension provides a fresh and exciting take on coding education. Whether you're an experienced coder or a curious beginner, Scratch 5.0 aims to inspire creativity, problem-solving, and fun through its upgraded features and user-centric design.
 
-## Features
+## ✨ Features
 
 - New and improved user interface
 - Additional coding blocks (coming soon)
 - Enhanced performance and stability
 - Ability to collaberate with other people on the same projects (coming soon)
 
-## Installation
+## 📦 Installation
 
 To install the Scratch 5.0 extension, follow these steps:
 
@@ -69,18 +69,18 @@ To install the Scratch 5.0 extension, follow these steps:
 2. Enable "Developer mode."
 3. Click "Load unpacked" and select the `Scratch5.0` directory.
 
-## Contributing
+## 🎉 Contributing
 
 We welcome contributions! Please read our [CONTRIBUTING SECTION](/.github/CONTRIBUTING.md) for guidelines on how to contribute to this project.
 
-## Security
+## 🔒 Security
 
 For information about reporting security vulnerabilities, see our [SECURITY POLICY](/.github/SECURITY.md).
 
-## Code of Conduct
+## 📚 Code of Conduct
 
 Please make sure to review our [CODE OF CONDUCT](/.github/CODE_OF_CONDUCT.md) to help maintain a welcoming and respectful community.
 
-## License
+## ⚓ License
 
 This project is licensed under the GPL-3.0 License. See the [LICENSE](/LICENSE.md) file for details.
